@@ -1,0 +1,4 @@
+customtkinter
+discord.py-self
+pillow
+pyinstaller
