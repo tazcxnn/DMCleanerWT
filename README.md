@@ -2,51 +2,53 @@
 
 **Developed by Witcruh & Taz**
 
-A lightweight desktop tool for Discord DM management, built with Python.
-
-[🇹🇷 Türkçe](#türkçe) · [🇬🇧 English](#english)
+DMCleanerWT is a desktop application designed to help manage and clean up Discord direct messages through a graphical interface.
 
 ---
 
 ## 🇹🇷 Türkçe
 
-DMCleanerWT, Discord doğrudan mesaj yönetimi için geliştirilmiş Python tabanlı bir masaüstü aracıdır. Kullanımı kolay bir arayüz ve sade bir deneyim sunmayı amaçlar.
+### DMCleanerWT Nedir?
 
-### İndirme
+DMCleanerWT, Discord DM (Direct Message) konuşmalarını yönetme ve temizleme işlemlerini kolaylaştırmak amacıyla geliştirilmiş Python tabanlı bir masaüstü uygulamasıdır.
 
-**[Windows EXE — Yakında](../../releases)**
+### Özellikler
+- Discord DM temizleme işlemleri için arayüz
+- Görsel arka plan ve masaüstü tasarımı
+- İşlem sürecini takip etmeye yönelik kullanım deneyimi
+- Windows için EXE sürümü
 
-### Çalıştırma (Kaynak Kod)
+### Kullanım
+1. Releases bölümünden `DMCleanerWT.exe` dosyasını indirin.
+2. Dosyayı çalıştırın ve uygulamadaki yönergeleri izleyin.
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+**[Windows EXE'yi indir](../../releases/latest)**
 
 ### Uyarı
-
-Discord kullanıcı hesabı otomasyonu veya self-bot kullanımı Discord kurallarını ihlal edebilir ve hesabınızın kısıtlanmasına neden olabilir. Token ve kişisel bilgilerinizi paylaşmayın.
+Discord kullanıcı hesabı otomasyonu veya self-bot kullanımı Discord kurallarıyla çelişebilir ve hesabınızın kısıtlanmasına neden olabilir. Kullanımdan önce riskleri değerlendirin ve hesap token'ınızı kimseyle paylaşmayın.
 
 ---
 
 ## 🇬🇧 English
 
-DMCleanerWT is a Python-based desktop utility for Discord direct-message management, designed with a simple graphical interface.
+### What is DMCleanerWT?
 
-### Download
+DMCleanerWT is a Python-based desktop application designed to simplify Discord DM (Direct Message) management and cleanup through a graphical interface.
 
-**[Windows EXE — Coming soon](../../releases)**
+### Features
+- Interface for Discord DM cleanup workflows
+- Custom background and desktop design
+- A user experience designed to help follow the process
+- Windows executable release
 
-### Run from Source
+### Usage
+1. Download `DMCleanerWT.exe` from the Releases section.
+2. Launch the file and follow the instructions in the application.
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+**[Download the Windows EXE](../../releases/latest)**
 
 ### Disclaimer
-
-Discord user-account automation or self-bot usage may violate Discord's rules and could result in account restrictions. Never share your token or personal information.
+Discord user-account automation or self-bot usage may conflict with Discord's rules and can lead to account restrictions. Understand the risks before use, and never share your account token.
 
 ---
 
